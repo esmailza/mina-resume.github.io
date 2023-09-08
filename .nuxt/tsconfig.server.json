@@ -1,0 +1,88 @@
+{
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "jsx": "preserve",
+    "jsxFactory": "h",
+    "jsxFragmentFactory": "Fragment",
+    "paths": {
+      "#imports": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/.nuxt/types/nitro-imports"
+      ],
+      "#paths": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/node_modules/nuxt/dist/core/runtime/nitro/paths"
+      ],
+      "~": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io"
+      ],
+      "~/*": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/*"
+      ],
+      "@": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io"
+      ],
+      "@/*": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/*"
+      ],
+      "~~": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io"
+      ],
+      "~~/*": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/*"
+      ],
+      "@@": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io"
+      ],
+      "@@/*": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/*"
+      ],
+      "assets": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/assets"
+      ],
+      "assets/*": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/assets/*"
+      ],
+      "public": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/public"
+      ],
+      "public/*": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/public/*"
+      ],
+      "pinia": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/node_modules/pinia/dist/pinia"
+      ],
+      "#color-mode-options": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/.nuxt/color-mode-options"
+      ],
+      "#tailwind-config": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/.nuxt/tailwind.config"
+      ],
+      "#tailwind-config/*": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/.nuxt/tailwind.config/*"
+      ],
+      "@intlify/shared": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/node_modules/@intlify/shared/dist/shared.esm-bundler"
+      ],
+      "@intlify/core-base": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/node_modules/@intlify/core-base/dist/core-base.esm-bundler"
+      ],
+      "@intlify/devtools-if": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/node_modules/@intlify/devtools-if/dist/devtools-if.esm-bundler"
+      ],
+      "vue-i18n": [
+        "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/node_modules/vue-i18n/dist/vue-i18n.runtime.esm-bundler"
+      ]
+    }
+  },
+  "include": [
+    "C:/Users/17028/OneDrive/Documents/GitHub/mina-resume.github.io/.nuxt/types/nitro-nuxt.d.ts",
+    "./types/nitro.d.ts",
+    "../**/*",
+    "../server/**/*"
+  ]
+}
